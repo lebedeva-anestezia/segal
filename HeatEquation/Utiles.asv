@@ -1,0 +1,8 @@
+function T = Utiles( r, s, method, T0 )
+    switch method
+        case 1
+        case 2
+            
+    end
+end
+
